@@ -3,5 +3,5 @@
 <div>
     <img align="right" src="gif.gif" width="400px">
   <p>
-    I'm Lorena Jiménez and I am currently studying Web Developer.
+    My name is Lorena Jiménez and I am currently studying Web Developer.
     <br><br>
